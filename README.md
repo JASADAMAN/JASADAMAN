@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 I’m currently learning about Data Analyst and Data Science.  Then I try to Create a Personal Project both about Data Analyst and Data Science like Machine Learning(ML), Case study form the Course that I learn.  
 
-👯 I’m looking to collaborate on position that pay attention on Skill, Data, Technology and Growing Up Together.    
+👯 I’m looking to collaborate on  that team whose pay attention on Skill, Data, Technology and Growing Up Together.    
 <!--
 **JASADAMAN/JASADAMAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
