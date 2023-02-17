@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning about Data Analyst and Data Science.  Then I try to Create a Personal Project both about Data Analyst and Data Science like Machine Learning(ML), Case study form the Course that I learn.  
+🌱 I’m currently learning about Data Analyst and Data Science.  Then I try to Create a Personal Project both about Data Analyst and Data Science like Machine Learning(ML), Case study form the Course that I learn and the Data form online Data Set like: UCI Machine Learning Repository, Kaggle 
 
 👯 I’m looking to collaborate on  that team whose pay attention on Skill, Data, Technology and Growing Up Together.    
 <!--
